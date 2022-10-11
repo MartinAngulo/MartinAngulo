@@ -14,8 +14,9 @@ A little bit about me:
 that's why I love sharing my knowledge with everyone".
 
 😄If you want to contact me, can use the following links:
-* [LinkedIn](https://www.linkedin.com/in/martinangulo1194/
+* [LinkedIn](https://www.linkedin.com/in/martinangulo1194/)
 * [+51 931739982](https://api.whatsapp.com/send/?phone=51931739982&text=Te+vi+en+Github&type=phone_number&app_absent=0)
+* email: martinangulo1194@gmail.com
 <!--
 **MartinAngulo/MartinAngulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
